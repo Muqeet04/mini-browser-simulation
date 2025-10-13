@@ -57,10 +57,16 @@ g++ main.cpp -o browser
 6. View history
 7. Clear history
 0. Exit
+
+   
 ==========================
+
 Enter your choice: 1
+
 Enter site name to open: YouTube
+
 Opened and switched to tab: YouTube
+
 
 
 🧱 Concepts Demonstrated
