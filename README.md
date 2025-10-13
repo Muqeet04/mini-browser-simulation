@@ -28,7 +28,9 @@ A simple **console-based browser simulator** built using **C++**, demonstrating 
 ## 🧩 Project Structure
 
 📁 Browser-Tab-Manager
+
 ┣ 📄 main.cpp # Main program file
+
 ┣ 📄 README.md # Project description and documentation
 
 
@@ -85,4 +87,5 @@ Dynamic Data Structures
 
 Muqeet Mahmood
 🎓 Student | 💻 C++ Enthusiast | 📚 Learning DSA
+
 📧 Feel free to reach out for collaboration or feedback!
