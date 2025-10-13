@@ -40,11 +40,14 @@ A simple **console-based browser simulator** built using **C++**, demonstrating 
    ```bash
    git clone https://github.com/yourusername/Browser-Tab-Manager.git
    cd Browser-Tab-Manager
+   
 g++ main.cpp -o browser
+
 ./browser
 
 
 💻 Example Output
+
 ======= Browser Menu =======
 1. Open new tab
 2. Close current tab
